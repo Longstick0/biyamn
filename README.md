@@ -7,7 +7,7 @@
 <img src="https://img.shields.io/badge/-Likelion-orange">
 
 <br>
-<hr>
+
 <br>
 <h1>💻𝚂𝚝𝚞𝚍𝚢𝚒𝚗𝚐💻</h1>
 <br>
@@ -17,7 +17,7 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
 
 <br>
-<hr>
+
 <br>
 <h1>🎈𝚂𝚝𝚊𝚝𝚞𝚜🎈</h1>
 
