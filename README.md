@@ -1,7 +1,6 @@
 <div align="center">
 
 <h1>📢𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢📢</h1> 
-<br>
 <img src="https://img.shields.io/badge/-K--Shield.Jr-blue"> 
 <img src="https://img.shields.io/badge/-AISEC-lightgrey">
 <img src="https://img.shields.io/badge/-Likelion-orange">
@@ -10,7 +9,6 @@
 
 <br>
 <h1>💻𝚂𝚝𝚞𝚍𝚢𝚒𝚗𝚐💻</h1>
-<br>
 <img src="https://img.shields.io/badge/-Reversing-lightgreen">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
