@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>📢𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢📢</h1> 
+<h1>✨𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢✨</h1> 
 <img src="https://img.shields.io/badge/-K--Shield.Jr-blue"> 
 <img src="https://img.shields.io/badge/-AISEC-lightgrey">
 <img src="https://img.shields.io/badge/-Likelion-orange">
@@ -17,6 +17,6 @@
 <br>
 
 <br>
-<h1>🎈𝚂𝚝𝚊𝚝𝚞𝚜🎈</h1>
+<h1>📌𝚂𝚝𝚊𝚝𝚞𝚜📌</h1>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=biyamn&show_icons=true&theme=buefy)
