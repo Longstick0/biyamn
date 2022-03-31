@@ -3,7 +3,7 @@
 <h1>✨𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢✨</h1> 
 <img src="https://img.shields.io/badge/-K--Shield.Jr-blue"> 
 <img src="https://img.shields.io/badge/-AISEC-lightgrey">
-<img src="https://img.shields.io/badge/-Likelion-orange">
+![Likelion](http://is.am/5yga)
 
 <br>
 
