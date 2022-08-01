@@ -11,10 +11,11 @@ I'm interested in Front-end and counseling.
 
 <br>
 <h1>💻 Blog & Notion 💻</h1>
+<p>
 <a href="https://velog.io/@hamham"><img src="https://img.shields.io/badge/velog-1DBF73?style=flat-square&logo=Vimeo&logoColor=white"/></a> 
   
 [![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white)](https://faceted-dash-136.notion.site/cae46d7069cb49cfb46f9ebc82be73dc)
-
+</p>
 <br>
 
 <br>
