@@ -8,10 +8,7 @@
 
 
 <br>
-<h1>💻𝚂𝚝𝚞𝚍𝚢𝚒𝚗𝚐💻</h1>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
+<h1>💻.💻</h1>
 
 <br>
 
