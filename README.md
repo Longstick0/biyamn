@@ -5,9 +5,9 @@
 <h1>✨ About me ✨</h1> 
   
 <!-- ![Likelion](http://is.am/5yga) <img src="https://img.shields.io/badge/-K--Shield.Jr-blue"> <img src="https://img.shields.io/badge/-AISEC-lightgrey"> -->
-I major in Human development & Family studies with a minor in Psychology.
+<h3>I major in Human development & Family studies with a minor in Psychology.</h3>
 <br>
-I'm interested in Front-end and counseling.
+<h3>I'm interested in Front-end and counseling.</h3>
 
 <br>
 <h1>📗 Blog 📗</h1>
