@@ -1,12 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=&fontSize=90)
 
 <div align="center">
-
+<!--
 <h1>✨ About me ✨</h1> 
-  
-<!-- ![Likelion](http://is.am/5yga) <img src="https://img.shields.io/badge/-K--Shield.Jr-blue"> <img src="https://img.shields.io/badge/-AISEC-lightgrey"> -->
+![Likelion](http://is.am/5yga) <img src="https://img.shields.io/badge/-K--Shield.Jr-blue"> <img src="https://img.shields.io/badge/-AISEC-lightgrey"> 
 <h5>I major in Human development & Family studies with a minor in Psychology.</h5>
 <h5>I'm interested in Front-end and counseling.</h5>
+-->
 
 <br>
 
