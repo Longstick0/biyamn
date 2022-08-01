@@ -25,6 +25,6 @@
 <br>
 <br>
  <br> 
-<h1>📌𝚂𝚝𝚊𝚝𝚞𝚜📌</h1>
+<h1>📌Status 📌</h1>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=biyamn&show_icons=true&theme=buefy)
