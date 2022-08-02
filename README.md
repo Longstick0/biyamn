@@ -9,7 +9,7 @@
 -->
 
 
-<h1>📒 Notion 📒</h1>
+<h1>📒 Study Log 📒</h1>
 <a href="https://faceted-dash-136.notion.site/cae46d7069cb49cfb46f9ebc82be73dc"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
   
 <br>
