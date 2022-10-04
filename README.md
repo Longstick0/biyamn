@@ -2,7 +2,7 @@
 
 # 🐹 About Me 🐹
 
-## 👋 Hi there
+### 👋 Hi there
 - I'm ZikZik!
 
   안녕하세요, 직직입니다!
@@ -22,14 +22,14 @@
 <br>
 <br>
 
-## 💡 Study Log & Blog
+### 💡 Study Log & Blog
 <a href="https://faceted-dash-136.notion.site/cae46d7069cb49cfb46f9ebc82be73dc"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white" style="width:80px"/></a>  & <a href="https://velog.io/@hamham"><img src="https://img.shields.io/badge/velog-1DBF73?style=flat-square&logo=Vimeo&logoColor=white"  style="width:70px"/></a>
 
 <br>
 <br>
 
 
-## 💻 Stack
+### 💻 Stack
 <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 23px; margin-bottom: 0px;" />
 <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 23px; margin-bottom: 0px;" />
 <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
