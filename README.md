@@ -30,8 +30,7 @@
 
 
 ### 💻 Stack
-<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 23px; margin-bottom: 0px;" />
-<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 23px; margin-bottom: 0px;" />
+<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 23px; margin-bottom: 0px;" /><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 23px; margin-bottom: 0px;" />
 <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
 
 
