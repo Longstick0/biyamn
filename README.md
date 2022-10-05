@@ -12,7 +12,7 @@
 
   그리고 현재는 프론트엔드 분야를 공부하고 있습니다.
 
-- I have a goal to experience various things as much as possible in my life.
+- My goal is to experience as many things as possible in my life.
 
   살면서 최대한 다양한 경험을 해보고 싶다는 목표가 있습니다.
 
