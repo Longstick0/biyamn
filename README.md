@@ -10,7 +10,7 @@
 
 - I'm studying Front-End
 
-  그리고 현재는 프론트엔드 분야를 공부하고 있습니다.
+  현재는 프론트엔드 분야를 공부하고 있습니다.
 
 - My goal is to experience as many things as possible in my life.
 
