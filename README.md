@@ -6,7 +6,7 @@
 
 - I major in Human Development & Family Studies with a minor in Psychology.
 
-  저는 아동가족학을 전공하고 심리학을 부전공했습니다.
+  아동가족학을 전공하고 심리학을 부전공했습니다.
 
 - I'm studying Front-End
 
