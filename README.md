@@ -3,9 +3,6 @@
 # 🐹 About Me 🐹
 
 ### 👋 Hi there
-- I'm ZikZik!
-
-  안녕하세요, 직직입니다!
 
 - I major in Human Development & Family Studies with a minor in Psychology.
 
